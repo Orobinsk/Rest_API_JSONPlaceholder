@@ -1,8 +1,8 @@
-# Educational project
+## technology stack:
+- React
+- axios
 
-According to Ulbi TV "React JS фундаментальный курс от А до Я"
-
-## Implemented:
+## implemented:
 * work with the server;
 * state management;
 * sort/search;
